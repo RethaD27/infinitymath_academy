@@ -1,0 +1,12 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Simple teal background -->
+  <rect width="512" height="512" fill="#008B8B"/>
+  
+  <!-- Large, bold infinity symbol -->
+  <path d="M 120 256 C 120 190 155 160 190 160 C 235 160 265 220 280 256 C 295 220 325 160 370 160 C 405 160 440 190 440 256 C 440 322 405 352 370 352 C 325 352 295 292 280 256 C 265 292 235 352 190 352 C 155 352 120 322 120 256 Z" 
+        fill="#00CED1" 
+        stroke="#FFFFFF" 
+        stroke-width="12"
+        stroke-linejoin="round"
+        stroke-linecap="round"/>
+</svg>
