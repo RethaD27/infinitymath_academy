@@ -184,7 +184,6 @@ export default function InfinityMathPage() {
                 <li>✅ 2 sessions per week</li>
                 <li>✅ Personalized attention</li>
                 <li>✅ CAPS-aligned curriculum</li>
-                <li>✅ Progress tracking</li>
               </ul>
             </div>
 
@@ -196,7 +195,6 @@ export default function InfinityMathPage() {
                 <li>✅ 3-5 day intensive program</li>
                 <li>✅ Small group sessions</li>
                 <li>✅ Holiday periods only</li>
-                <li>✅ Focused learning</li>
               </ul>
             </div>
 
@@ -208,7 +206,6 @@ export default function InfinityMathPage() {
                 <li>✅ Short video lessons</li>
                 <li>✅ Math tricks & tips</li>
                 <li>✅ Exam preparation</li>
-                <li>✅ Fun math challenges</li>
               </ul>
             </div>
           </div>
