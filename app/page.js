@@ -332,7 +332,7 @@ export default function InfinityMathPage() {
               <p>🎓 BSc Mathematics - University of Pretoria</p>
               <p>💻 Software Engineer</p>
               <p>🧠 Passionate about youth empowerment and education</p>
-              <p>📍 Based in Rustenburg, Royal Bafokeng</p>
+              <p>📍 Based in Rustenburg, Phokeng</p>
               <p style={{ marginTop: "1rem", fontStyle: "italic" }}>
                 &quot;Mathematics is the language of the universe, and every
                 learner deserves to speak it fluently.&quot;
@@ -407,22 +407,7 @@ export default function InfinityMathPage() {
               </p>
             </div>
 
-            <div className="contact-item">
-              <div
-                style={{
-                  fontSize: "2rem",
-                  color: "#00CED1",
-                  marginBottom: "1rem",
-                }}
-              >
-                🌐
-              </div>
-              <h3>Follow Us</h3>
-              <p>Daily math tips & updates</p>
-              <p>
-                <strong>@InfinityMathZA</strong>
-              </p>
-            </div>
+        
           </div>
         </div>
       </section>
