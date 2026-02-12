@@ -197,17 +197,6 @@ export default function InfinityMathPage() {
                 <li>✅ Holiday periods only</li>
               </ul>
             </div>
-
-            <div className="product-card">
-              <h3>📱 Free Math Content</h3>
-              <p>Daily TikTok & YouTube math tips and tricks</p>
-              <div className="price">FREE</div>
-              <ul style={{ textAlign: "left", margin: "1rem 0" }}>
-                <li>✅ Short video lessons</li>
-                <li>✅ Math tricks & tips</li>
-                <li>✅ Exam preparation</li>
-              </ul>
-            </div>
           </div>
         </div>
       </section>
